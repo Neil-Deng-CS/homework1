@@ -6,4 +6,4 @@ contributors. It serves as a hub for collaboration, allowing developers to share
 synchronize their work. Remote repositories can be hosted on services like GitHub or GitLab or 
 they can be set up on a server accessible over a network. Developers can push their changes 
 to the remote repository to make them available to others and pull changes from it to 
-incorporate updates made by team members or collaborators.
+incorporate updates made by team members or other collaborators.
