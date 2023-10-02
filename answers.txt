@@ -1,3 +1,15 @@
+What is a remote repository?
+
+A remote repository is a centralized location in a distributed version control system, 
+such as Git, where a copy of a project's codebase is stored and can be accessed by multiple 
+contributors. It serves as a hub for collaboration, allowing developers to share and 
+synchronize their work. Remote repositories can be hosted on services like GitHub or GitLab or 
+they can be set up on a server accessible over a network. Developers can push their changes 
+to the remote repository to make them available to others and pull changes from it to 
+incorporate updates made by team members or other collaborators.
+
+
+
 What is the difference between a merge and a rebase?
 
 Merge and rebase are two different ways to integrate changes from one branch 
